@@ -1,5 +1,5 @@
 💫 About Me:
-🔭 I’m currently working on:
+🔭 I’m currently working on:<br>
 My first project of web scraping
 
 👯 I’m looking to collaborate on:
