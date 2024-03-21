@@ -2,19 +2,18 @@
 🔭 I’m currently working on:<br>
 My first project of web scraping
 
-👯 I’m looking to collaborate on:
+👯 I’m looking to collaborate on:<br>
 Fullstack projects
 
-🌱 I’m currently learning:
+🌱 I’m currently learning:<br>
 Backend with Nodejs
 
-💬 Ask me about:
+💬 Ask me about:<br>
 JavaScript, React, Nextjs, Node.js and any general software development questions.
 
-⚡ Fun fact:
-I love creating content.
+⚡ Fun fact:<br>
+I love Memes.
 
-
-🌐 Socials:
+🌐 Socials:<br>
 Twitter Instagram LinkedIn 
 
