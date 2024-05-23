@@ -12,7 +12,7 @@ Backend with Nodejs
 JavaScript, React, Nextjs, Node.js and any general software development questions.
 
 ⚡ Fun fact:<br>
-I love Memes.
+I love making memes on tech
 
 🌐 Socials:<br>
 Twitter Instagram LinkedIn 
