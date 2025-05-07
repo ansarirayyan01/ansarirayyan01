@@ -22,18 +22,6 @@ I'm a developer focused on building innovative solutions. I enjoy working with a
 - Cloud technologies
 - Mobile app development
 
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/rayyanansari)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
-
-## 🔭 Featured Projects
-
-### Project 1
-A brief description of one of your key projects, what technologies you used, and what problems it solves.
-
-### Project 2
-A brief description of another key project that showcases your skills and interests.
-
 ---
 
 ⭐️ From [ansarirayyan01](https://github.com/ansarirayyan01)
